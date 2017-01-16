@@ -1,0 +1,23 @@
+.first-box, .second-box, .third-box, .forth-box, .fifth-box {
+  height: 500px
+}
+
+.first-box {
+  background-color: blue;
+}
+
+.second-box {
+  background-color: green;
+}
+
+.third-box {
+  background-color: purple;
+}
+
+.forth-box {
+  background-color: orange;
+}
+
+.fifth-box {
+  background-color: teal;
+}
